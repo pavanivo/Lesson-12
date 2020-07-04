@@ -1,20 +1,5 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Logistic Regression
 
-> Unit 3: Required
-
----
-
-## Materials We Provide
-
-| Topic | Description | Link |
-| --- | --- | --- |
-| Lesson | Logistic Regression | [Here](./logistic-regression-starter.ipynb) |
-| Solution  | Solution code for blanked out lesson samples | [Here](./solution-code/logistic-regression-solution.ipynb) |
-| Practice | Three activities: Bank Marketing, Multi-LogReg using Iris, and Evergreen Website Ranking | [Here](./practice/) |
-| Data | College Admissions Data, Titanic Survivors, Glass, and practice data | [Here](./data/) |
-| Slides | Sample Slides for Log Reg, Confusion Matrix, and ROC | [Here](./slides/) |
-| Extra Materials | Examples of Logistic Regression Implementation | [Here](./extra-materials/) |
-
 
 > These datasets were chosen because they are familiar datasets from previous lessons and have binary targets for logistic regression.
 
